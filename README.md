@@ -1,5 +1,5 @@
 # LYA_app
-Es una aplicación móvil personalizada que cuenta con:
+Es una aplicación móvil personalizada que cuenta con:<br/>
 Splash Screen al iniciar la aplicacion se lanza una imagen animada
 Asistente para indicarle al usuario como funciona la aplicacion
 Ventanas Emergentes para mostrar la informacion
