@@ -1,5 +1,6 @@
 # LYA_app
-Es una aplicación móvil personalizada que cuenta con:<br/>
+Es una aplicación móvil personalizada desarrollada en Android Studio con el lenguaje Java <br/>
+<h4>Caracteristicas de la App</h4>
 <ul>
   <li>Splash Screen al iniciar la aplicacion se lanza una imagen animada</li>
   <li>Asistente para indicarle al usuario como funciona la aplicacion</li>
