@@ -1,7 +1,12 @@
 # LYA_app
 Es una aplicación móvil personalizada que cuenta con:<br/>
-Splash Screen al iniciar la aplicacion se lanza una imagen animada
-Asistente para indicarle al usuario como funciona la aplicacion
-Ventanas Emergentes para mostrar la informacion
+<ul>
+  <li>Splash Screen al iniciar la aplicacion se lanza una imagen animada</li>
+  <li>Asistente para indicarle al usuario como funciona la aplicacion</li>
+  <li>Ventanas Emergentes para mostrar la informacion</li>
+</ul>
+
+
+
 
 ![image alt](https://github.com/alexanderguerrero1998/LYA_app/blob/d74b0405d501d37fc3eb7178fca1016527dd4359/Asistente.jpeg) ![image_alt](https://github.com/alexanderguerrero1998/LYA_app/blob/c259b42023cc37088427bc59548a9e164f6b5e67/Popup.jpeg)
